@@ -2,6 +2,7 @@ jupyterlab
 matplotlib
 numpy
 pandas
+py4j
 pyproj
 pyshp
 tabulate
